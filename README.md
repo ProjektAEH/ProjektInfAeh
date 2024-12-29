@@ -50,7 +50,7 @@ pip install numpy pandas
 2. Upewnij się, że masz zainstalowane wszystkie wymagane zależności, wykonując polecenie:
 
    ```bash
-   pip install -r requirements.txt
+   pip3 install numpy pandas --break-system-packages
    ```
 
 ## Użycie
