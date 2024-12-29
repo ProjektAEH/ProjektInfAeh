@@ -91,7 +91,6 @@ pip install numpy pandas
 - `program.py`: Główny plik programu, który implementuje algorytm ACO.
 - `deliveries.csv`: Plik CSV z danymi o punktach dostaw.
 - `fleet.json`: Plik JSON z danymi o flocie pojazdów.
-- `requirements.txt`: Plik z wymaganymi zależnościami (np. numpy, pandas).
 
 ## Przykład danych
 
