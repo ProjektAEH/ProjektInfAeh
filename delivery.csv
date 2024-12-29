@@ -1,0 +1,4 @@
+ID,Latitude,Longitude,TimeWindow,Priority
+1,52.2297,21.0122,8:00-12:00,High
+2,50.0647,19.9450,9:00-13:00,Medium
+3,52.4064,16.9252,10:00-14:00,Low
