@@ -43,8 +43,8 @@ pip install numpy pandas
 1. Sklonuj to repozytorium:
 
    ```bash
-   git clone https://github.com/TwojeRepozytorium.git
-   cd TwojeRepozytorium
+   git clone https://github.com/ProjektAEH/ProjektInfAeh.git
+   cd ProjektInfAeh
    ```
 
 2. Upewnij się, że masz zainstalowane wszystkie wymagane zależności, wykonując polecenie:
