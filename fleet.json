@@ -1,0 +1,4 @@
+[
+    {"ID": "V001", "Capacity": 100, "CostPerKm": 0.5},
+    {"ID": "V002", "Capacity": 50, "CostPerKm": 0.2}
+]
